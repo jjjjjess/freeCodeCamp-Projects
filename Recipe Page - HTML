@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Butter Chicken Recipe</title>
+  </head>
+  <body>
+    <h1>Easy Butter Chicken Recipe</h1>
+    <p>Looking to create a simple, flavour packed butter chicken? Then you've come to the right place. No complicated ingredients or skill needed, just one pot and 25 minutes!</p>
+    <img src="https://feelgoodfoodie.net/wp-content/uploads/2024/02/Easy-Butter-Chicken-TIMG.jpg" alt="Butter Chicken" height="300">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>250g Chicken Breast</li>
+      <li>3 Tablespoons Greek Yogurt</li>
+      <li>2 Tablespoons Coconut Oil</li>
+      <li>Cumin</li>
+      <li>Paprika</li>
+      <li>Tumeric</li>
+      <li>Chilli Powder</li>
+      <li>2 Garlic Cloves, crushed</li>
+      <li>Ginger powder</li>
+      <li>4 Tomatoes</li>
+      <li>1 Onion0</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Cut the chicken breast into cubes and marinade in the greek yogurt mixed with the spices for 10 mins.</li>
+      <li>Pre-heat the coconut oil in a pan.</li>
+      <li>Blend the onion, garlic cloves and tomatoes into a fine paste.</li>
+      <li>Fry the chicken until golden brown, then add in the blended mix and let simmer until fully cooked. Enjoy with a side of rice and naan!</li>
+    </ol>
+  </body>
+</html>
