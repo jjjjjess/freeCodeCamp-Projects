@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Travel Agency Page for Malawi, Africa">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>Discover Malawi</h1>
+    <p>Explore the exciting hidden gems in the Warm Heart of Africa!</p>
+    <h2>Packages</h2>
+    <p>Whether you're looking for an adventorus, active packed holiday filled with excursions, hikes in beauiful mountains, snorkelling in the worlds third largest freshwater lake. Or a more relaxed, rejuvinating experience learning of the deep culture, trying Malawi's traditional foods and relaxing by the beach, there is a package for you!</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://www.malawitourism.com/wp-content/uploads/2018/12/127DSC_5684-1024x681.jpg" alt="Gulu Wamkulu" width="450"></a>
+      <figcaption>"Gulu Wamkulu" in Zomba, Malawi</figcaption>
+      </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://lp-cms-production.imgix.net/2023-04/GettyImages-735999721.jpeg?auto=format,compress&q=72&w=1440&h=810&fit=crop" alt="Mount Mulanje, Mulanje, Malawi" width="450"></a>
+      <figcaption>Mulanje Mountain and surrounding tea plantations</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://africa.com/wp-content/uploads/2019/01/Malawi.jpg" alt="Lake Malawi" width="450"></a>
+      <figcaption>Cape Maclear, Lake Malawi</figcaption>
+    </figure>
+  </body>
+</html>
