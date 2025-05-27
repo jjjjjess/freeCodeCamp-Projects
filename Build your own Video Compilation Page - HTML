@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Top 3 Best Anime Movies</h1>
+    <p>Whether you are a committed fan of anime or someone just looking for something different to watch, these are the top 3 best anime movies created.</p>
+    <section>
+        <h2>Howl's Moving Castle</h2>
+        <p>"Sophie, an average teenage girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. After this chance meeting she is turned into a 90-year old woman by the vain and conniving Witch of the Waste. Embarking on an incredible adventure to lift the curse, she finds refuge in Howl's magical moving castle where she becomes acquainted with Markl, Howl's apprentice, and a hot-headed fire demon named Calcifer. As the true power of Howl's wizardry is revealed, and his relationship with Sophie deepens, our young grey heroine finds herself fighting to protect them both from a dangerous war of sorcery that threatens their world."
+Director: Hayao Miyazaki,
+Year of Production: 2004</p>
+        <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/iwROgK94zcM?si=KlQ721QEaIwt502t"
+        title="Howl's Moving Castle"
+        frameborder="0"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Princess Mononoke</h2>
+            <p>Inflicted with a deadly curse, the young warrior Ashitaka heads west in search of a cure. There, he stumbles into a bitter conflict between Lady Eboshi, the proud people of Iron Town, and the enigmatic Princess Mononoke, a young girl raised by wolves, who will stop at nothing to prevent the humans from destroying her home and the forest spirits and animal gods who live there. Featuring the voice talents of Gillian Anderson, Billy Crudup, Claire Danes, Jada Pinkett Smith, and Billy Bob Thornton. From Hayao Miyazaki and Studio Ghibli</p>
+            <iframe
+            src="https://www.youtube.com/embed/vf6c6n35wr4?si=o3dA3MSu7paYhi5n"
+            title="Princess Mononoke trailer"
+            width="560" height="315"
+            frameborder="0"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Spirited Away</h2>
+            <p>Spirited Away is a wondrous fantasy about a young girl named Chihiro who discovers a secret world of strange spirits, creatures and sorcery. When her parents are mysteriously transformed, she must call upon the courage she never knew she had to free herself and return her family to the outside world.
+
+Director: Hayao Miyazaki
+Year of Production: 2001</p>
+            <iframe 
+            width="560" height="315" src="https://www.youtube.com/embed/ByXuk9QqQkk?si=5jqloXmmVY9Y8u53" title="Spirited Away trailer" frameborder="0"  referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
